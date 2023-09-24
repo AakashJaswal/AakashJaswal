@@ -2,7 +2,7 @@
 ![Hi There](https://github.com/AakashJaswal/AakashJaswal/blob/main/Aakash%20Jaswal%20LinkedIn.png)
 
 ### Hi there 👋
-
+[![PRs Welcome](https://komarev.com/ghpvc/?username=AakashJaswal&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/AakashJaswal)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AakashJaswal&layout=compact)
 <!--
 **AakashJaswal/AakashJaswal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
