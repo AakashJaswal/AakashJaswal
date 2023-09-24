@@ -1,5 +1,9 @@
-### Hi there 👋
+
 ![Hi There](https://github.com/AakashJaswal/AakashJaswal/blob/main/Aakash%20Jaswal%20LinkedIn.png)
+
+### Hi there 👋
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AakashJaswal)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **AakashJaswal/AakashJaswal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
